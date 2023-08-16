@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Strategy", "DesignPatterns.Strategy\DesignPatterns.Strategy.csproj", "{DAB41030-0E7E-4E2F-81AF-3D9432C70AF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Strategy", "DesignPatterns.Strategy\DesignPatterns.Strategy.csproj", "{DAB41030-0E7E-4E2F-81AF-3D9432C70AF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Observer", "DesignPatterns.Observer\DesignPatterns.Observer.csproj", "{4BBED592-8AB2-463E-A5D9-E4567C5C9DA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DAB41030-0E7E-4E2F-81AF-3D9432C70AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAB41030-0E7E-4E2F-81AF-3D9432C70AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAB41030-0E7E-4E2F-81AF-3D9432C70AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BBED592-8AB2-463E-A5D9-E4567C5C9DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBED592-8AB2-463E-A5D9-E4567C5C9DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBED592-8AB2-463E-A5D9-E4567C5C9DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBED592-8AB2-463E-A5D9-E4567C5C9DA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
